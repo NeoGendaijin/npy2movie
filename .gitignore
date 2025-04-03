@@ -1,3 +1,4 @@
 results/*/*.mp4
+results/*/*.gif
 source/*/*.png
 source/*/*.npy
