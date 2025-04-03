@@ -1,2 +1,3 @@
-results/*
-source/*
+results/*/*.mp4
+source/*/*.png
+source/*/*.npy
